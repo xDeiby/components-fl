@@ -1,4 +1,4 @@
-# firstproject
+# components
 
 A new Flutter project.
 
